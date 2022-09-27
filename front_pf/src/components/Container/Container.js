@@ -20,6 +20,7 @@ export default function Container() {
           </Link>
         </div>
       </div>
+      <SideBar />
     </div>
   );
 }
