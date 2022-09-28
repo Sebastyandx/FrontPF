@@ -1,0 +1,28 @@
+/* .container-carrusel {
+  background-color: brown;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.container-card {
+  background-color: blue;
+  display: flex;
+}
+.container-all {
+  display: flex;
+  flex-direction: row;
+  background-color: aqua;
+}
+.container-btn {
+  display: flex;
+  align-items: center;
+}
+.btncard {
+  height: 50px;
+  width: 50px;
+  display: flex;
+  align-items: center;
+}
+ */
